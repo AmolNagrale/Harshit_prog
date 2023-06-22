@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-#### ####
-=======
-##
->>>>>>> dccd71914c0306cf709b9dbcc20b0983502d94e1
+#####
   293  git clone https://github.com/rupeshjodh/Harshit_prog.git
   294  git clone https://github.com/rupeshjodh/Harshit_prog.git
   295  git status
 
-  297  clear
+  297  
   298  git diff
   299  diff --git a/Harshit_prog b/Harshit_prog
   300  git diff

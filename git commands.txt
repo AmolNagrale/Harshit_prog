@@ -1,5 +1,5 @@
 
->>>>>>> 4b2d5bc7a212618be0b771af808d6ec9034b3a94
+
   293  git clone https://github.com/rupeshjodh/Harshit_prog.git
   294  git clone https://github.com/rupeshjodh/Harshit_prog.git
   295  git status
